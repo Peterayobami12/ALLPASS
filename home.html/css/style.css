@@ -1,0 +1,145 @@
+body{
+    size: 1000px;
+    align-content: center;
+    ;
+}
+.background{
+    padding: 0pt;
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-size: 1300px 700px;
+    align-items: center;
+    align-content: center;
+    position: flex;
+    background-position: center;
+    margin-top: 0pt;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {
+    margin: 20px 0 10px;
+height: 100px;
+width: auto;
+}
+
+.apple {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.apple img {
+    margin: 42pt 0 30px;
+    height: 70px;
+    width: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 0pt;
+    box-shadow: 60pt;
+    border-color: blue;
+}
+
+aside{
+    position: left;
+    vertical-align: baseline;
+    color: lawngreen;
+    scroll-snap-align: left;
+    justify-content: left;
+}
+
+nav a :hover {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: red;
+    font-style: oblique;
+    box-shadow: black 10px;
+    font-family: sans-serif;
+    
+}
+
+h3 a :hover{
+color: red 
+}
+
+
+.playstore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.playstore img {
+    margin: 40px 0 30px;
+    height: 99px;
+    width: auto;
+}
+
+
+.banner img {
+    margin: 0px 0 0;
+    height: 500px;
+    width: auto;
+    position: relative;
+    padding: 0pt;
+
+}
+
+main {
+    max-width: 1000px;
+    float: none;
+    margin: auto;
+    justify-items: center;
+    justify-content: center;
+}
+
+
+
+header :{
+    margin-top: 0pt;
+    border-radius: 3000x;
+    box-shadow: 500px;
+}
+
+.motto {
+    font-size: 18pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    margin-top: 10pt;
+}
+
+
+
+button
+{
+color:black;
+background-color: transparent;
+outline: 4pt;
+box-shadow: black;
+shape-margin: 2px;
+transform-style: preserve-3d;
+    text-decoration-color: blue;
+    font-size: 14pt;
+    cursor: pointer;
+
+}
+
+header nav 
+{
+    text-shadow: blue; touch-action: pinch-zooms;
+    box-sizing: border-box;
+    box-shadow: blue;
+}
+.login-btn{
+    cursor: pointer;
+}
+
+
+
+
+
